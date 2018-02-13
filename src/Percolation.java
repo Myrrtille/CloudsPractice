@@ -153,6 +153,7 @@ public class Percolation {
 		
 	}
 
-
 	////////////////LIZA WAS HERE
+// for conflict 
+
 }

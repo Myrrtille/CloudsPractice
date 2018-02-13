@@ -5,6 +5,8 @@ public class Percolation {
 	private static int N = 0;
 	QuickFindUF qf;
 	private boolean[][] mOpened_closed;
+
+System.out.prinln("Conflict from Anna");
 	
 	private int amountOfOpened = 0;
 

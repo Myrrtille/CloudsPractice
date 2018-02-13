@@ -154,5 +154,5 @@ public class Percolation {
 	}
 
 
-	
+	////////////////LIZA WAS HERE
 }
